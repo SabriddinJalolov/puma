@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+
+  box-sizing: border-box;
+}
+.nav_start{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.navigation{
+    margin: 47px 230px;
+}
+.menyu{
+    width: 331px;
+    height: 26px;
+    text-align: center;
+    list-style: none;
+       display: flex;
+    justify-content: space-between;
+}
+.buttom{
+width: 137px;
+height: 59px;
+left: 1233px;
+top: 40px;
+
+background: #EE5514;
+border-radius: 5px;
+}
+
+.continer{
+    align-items: center;
+    display: flex;
+    margin: 123px 230px;
+}
+.main_text{
+    width: 366px;
+height: 216px;
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 61px;
+line-height: 120%;
+
+color: #1A0A03;
+
+}
+.shoes{
+    background: #EE5514;
+}
+.brand_box{
+    
+    margin: 50px 230px;
+width: 792px;
+height: 90px;
+left: 230px;
+top: 573px;
+
+background: #f3eeee;
+box-shadow: 0px 1px 14px rgba(26, 10, 3, 0.05);
+border-radius: 5px;
+}
+
+.line_box{
+    list-style: none;
+}
+
+.line{
+    margin: 30px 55px 0 ;
+  justify-content: space-between;
+    list-style: none;
+display: flex;
+
+}
+.buttom{
+    margin: 20px 14px 49px 62px;
+}
+/*   <!--header start-->*/
+.texit{
+    width: 340px;
+height: 114px;
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 130%;
+
+color: #1A0A03;
+}
+.p_text{
+    width: 326px;
+height: 78px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #1A0A03;
+opacity: 0.7;
+}
+.main_box{
+
+align-items: center;
+display: flex;
+
+}
+.box{
+align-items: center;
+margin: 354px 230px 245px 104px;
+}
+.box_img{
+width: 355px;
+height: 326px;
+display: flex;
+margin-top:194px;
+    
+}
+.future{
+text-align: center;
+letter-spacing: 0.05em;
+color: #EE5514;
+
+}
+.texti{
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 130%;
+text-align: center;
+color: #1A0A03;
+}
+.clasu{
+    margin-top: 50px;
+margin-left: 30px;
+margin-right: 63px;
+width: 360px;
+height: 423px;
+
+background: #f1f0ef;
+box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+border-radius: 10px;
+
+}
+.clasi{
+    margin-top: 50px;
+margin-left: 30px;
+margin-right: 63px;
+width: 360px;
+height: 423px;
+
+background: #f1f0ef;
+box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+border-radius: 10px;
+
+}
+
+.clas{
+    margin-top: 50px;
+margin-left: 30px;
+margin-right: 63px;
+width: 360px;
+height: 423px;
+
+background: #bbb9b8;
+box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+border-radius: 10px;
+}
+.img{
+    margin: 91.69px 138.72px;
+}
+.quality{
+    margin-left: 143px;
+width: 73px;
+height: 33px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+text-align: center;
+color: #1A0A03;
+}
+.lorem{
+    width: 239px;
+height: 44px;
+margin-left: 60px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+text-align: center;
+color: #1A0A03;
+opacity: 0.7;
+}
+.loremi{
+    margin-left: 127px;
+width: 90px;
+height: 26px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+text-align: center;
+color: #EE5514;
+
+}
+.section_box{
+    margin-right: 30px;
+    display: flex;
+}
+.galary{
+    margin-left: 100px;
+    margin-top: 140px;
+width: 94px;
+height: 30px;
+
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+letter-spacing: 0.05em;
+
+color: #EE5514;
+}
+.year{
+margin-left: 100px;
+ width: 498px;
+height: 57px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 130%;
+color: #1A0A03;
+}
+.box_image{
+box-sizing: border-box;
+width: 263px;
+height: 170px;
+left: 230px;
+top: 2282px;
+background: url(image.png);
+border: 2px solid #EE5514;
+filter: drop-shadow(0px 1px 30px rgba(26, 10, 3, 0.05));
+border-radius: 10px;
+}
